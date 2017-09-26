@@ -1,2 +1,2 @@
-# Docker-Flo-Bungee
-A Flo container for bungee
+# Docker-Flo
+A new kind of container for Corinth
